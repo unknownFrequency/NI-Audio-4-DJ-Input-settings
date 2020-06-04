@@ -1,4 +1,4 @@
-# NI-Audio-4-DJ-Input-settings
+# NI-Audio-4-DJ-Input-settings for Linux (tested in Arch)
 
 chmod +x phono.sh
 
